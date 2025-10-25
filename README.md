@@ -146,3 +146,7 @@ In the **Booking Management System**, the wireframe outlines where the user can:
 - Enter details like date and time  
 - Proceed to checkout and make payment  
 
+## Real-World Scenario: Identifying Usability Issues Through Wireframing
+
+During the early design phase of a **Booking Management System**, the design team created low-fidelity wireframes to visualize the user journey from service selection to payment.  
+While reviewing the wireframes, the team identified several **potential usability issues** that could have negatively affected the user experience if left unresolved.
