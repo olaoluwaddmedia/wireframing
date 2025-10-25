@@ -20,7 +20,7 @@ Wireframes are typically created during the early stages of the design process t
 - **Saves Time and Resources**  
   Making changes in a wireframe is faster and less costly than modifying designs or code later in the project.
 
-## 🧱 Key Elements of a Wireframe
+## Key Elements of a Wireframe
 
 A **wireframe** outlines the essential components of a digital interface, helping designers visualize structure, navigation, and functionality before adding detailed visuals. Below are the key elements commonly found in a wireframe and how each contributes to the overall design.
 
@@ -30,7 +30,7 @@ A **wireframe** outlines the essential components of a digital interface, helpin
 Defines the overall framework and organization of the page or screen. It determines how sections such as headers, sidebars, and content areas are arranged.
 
 **Example:**  
-A booking system homepage may use a **three-section layout** — a header with navigation, a main section displaying available services, and a footer with contact information.  
+A booking system homepage may use a **three-section layout** a header with navigation, a main section displaying available services, and a footer with contact information.  
 This ensures **visual consistency** and an intuitive content flow for users.
 
 ---
