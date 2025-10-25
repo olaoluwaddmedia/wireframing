@@ -61,3 +61,54 @@ A **“Book Now” button** in the service section or a **search bar** in the he
 Including these elements helps developers understand **system interactions** early in the design phase.
 
 ---
+## Types of Wireframes.
+
+## 🎨 Low-Fidelity vs High-Fidelity Wireframes
+
+Wireframes can vary in their level of detail and visual precision. The two main types — **low-fidelity** and **high-fidelity** wireframes — serve different purposes during the design process.
+
+---
+
+### **🧾 Low-Fidelity Wireframes**
+Low-fidelity wireframes are **basic, simplified sketches** that focus on layout, structure, and overall functionality rather than design aesthetics.  
+They are often created using pen and paper or simple digital tools.
+
+**Characteristics:**
+- Minimal detail and no colors or images  
+- Placeholder elements (e.g., boxes for images, lines for text)  
+- Focused on layout and content hierarchy  
+- Quick to create and easy to modify  
+
+**Typically Used:**  
+- During the **early stages** of the design process  
+- For **brainstorming, concept exploration,** and **team discussions**  
+- To **validate initial ideas** before adding design complexity  
+
+**Example Use Case:**  
+A rough sketch showing where booking details, buttons, and navigation links will appear on a booking system’s interface.
+
+---
+
+### **High-Fidelity Wireframes**
+High-fidelity wireframes are **detailed and realistic representations** of the final design. They often include actual text, images, colors, icons, and interactive elements.
+
+**Characteristics:**
+- Detailed visuals resembling the final interface  
+- Includes typography, spacing, and color schemes  
+- May be interactive or clickable  
+- Requires more time and design effort  
+
+**Typically Used:**  
+- In the **later stages** of the design process  
+- For **usability testing, stakeholder presentations,** and **developer handoff**  
+- To **finalize design decisions** before implementation  
+
+**Example Use Case:**  
+A polished wireframe of the checkout page showing input fields, button styles, and payment options that match the intended user interface.
+
+---
+
+## Type of Wireframe Used in This Project
+
+This project uses a **Low-Fidelity Wireframe**, created to outline the **basic layout, navigation flow, and key functionalities** of the Booking Management System.  
+It serves as an early-stage design tool to communicate structure and interactions clearly before moving into detailed design or development phases.
