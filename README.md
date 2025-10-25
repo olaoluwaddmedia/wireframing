@@ -112,3 +112,37 @@ A polished wireframe of the checkout page showing input fields, button styles, a
 
 This project uses a **Low-Fidelity Wireframe**, created to outline the **basic layout, navigation flow, and key functionalities** of the Booking Management System.  
 It serves as an early-stage design tool to communicate structure and interactions clearly before moving into detailed design or development phases.
+
+## Discussing popular wireframing tools.
+## Recommended Tool: Figma
+
+### **Overview**
+**Figma** is a powerful, web-based design tool widely used for **UI/UX design, prototyping, and wireframing**. It allows teams to collaborate in real-time, making it an excellent choice for both individual designers and larger development teams.
+
+### **Key Features of Figma**
+- **Real-Time Collaboration**  
+  Multiple users can work on the same file simultaneously, making feedback and iteration seamless.  
+
+- **Cloud-Based Access**  
+  Projects are saved online, allowing access from any device without the need for manual file sharing.  
+
+- **Vector Editing Tools**  
+  Provides precise control for creating clean layouts, shapes, and interface elements — ideal for both low- and high-fidelity wireframes.  
+
+### **Why Figma is Useful for Wireframing**
+- **Speeds up the design process** through drag-and-drop components and templates.  
+- **Enhances communication** between designers, developers, and stakeholders by providing a shared workspace.  
+
+## The benefits of wireframing from a software development perspective.
+## How Wireframes Guide the Design Process and Facilitate Communication
+
+### **Guiding the Design Process**
+Wireframes act as a **visual guide** that shapes how a product’s interface is structured before any detailed design or development begins.  
+They help designers and developers focus on **functionality, layout, and user flow** rather than colors or aesthetics.
+
+**Example:**  
+In the **Booking Management System**, the wireframe outlines where the user can:
+- View available booking options  
+- Enter details like date and time  
+- Proceed to checkout and make payment  
+
