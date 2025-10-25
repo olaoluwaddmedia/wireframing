@@ -1,7 +1,7 @@
 # wireframing.
 
 ### **What is Wireframing?**
-**Wireframing** is the process of creating a visual blueprint or skeletal outline of a digital product, such as a website or application. It represents the basic structure and layout of a user interface (UI) — including key elements like menus, buttons, images, and content areas — without focusing on colors, styles, or detailed design.  
+**Wireframing** is the process of creating a visual blueprint or skeletal outline of a digital product, such as a website or application. It represents the basic structure and layout of a user interface (UI) including key elements like menus, buttons, images, and content areas without focusing on colors, styles, or detailed design.  
 
 Wireframes are typically created during the early stages of the design process to visualize how users will interact with the system before any coding or high-fidelity design begins.
 
